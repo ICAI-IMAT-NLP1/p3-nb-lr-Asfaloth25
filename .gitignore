@@ -10,6 +10,9 @@ __pycache__/
 /results/
 scalers/
 
+# virtual environment
+/env/
+
 # files
 *.csv
 *.out
